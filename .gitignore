@@ -1,0 +1,7 @@
+*
+!*.py
+!*.cpp
+!*.hs
+!*/
+
+tempCodeRunnerFile*
